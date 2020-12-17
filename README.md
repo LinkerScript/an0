@@ -6,3 +6,7 @@ A easy to use message logger for CollabVM
 
 ## VMs supported
 VM1 -- You can make a pullrequest for more though.
+
+
+## Credits
+calebviem - Used his bot "collabbot" as a template for this.
